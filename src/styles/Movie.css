@@ -1,0 +1,11 @@
+img {
+    width: 100%;
+    height: 20vh;
+    object-fit: cover;
+}
+
+div h2 {
+    text-align: center;
+    font-size: 1.2rem;
+    font-weight: bold;
+}

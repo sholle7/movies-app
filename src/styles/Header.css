@@ -1,0 +1,10 @@
+.header {
+    margin-left: 20vw ;
+    margin-right: 20vw ;
+}
+
+.header > Button {
+    margin: 1vw;
+    margin-left: 0;
+    text-align: center;
+}
